@@ -1,0 +1,6 @@
+C:\Users\rolan\source\repos\ConcurrentTest\ConcurrentTest\bin\Debug\ConcurrentTest.exe.config
+C:\Users\rolan\source\repos\ConcurrentTest\ConcurrentTest\bin\Debug\ConcurrentTest.exe
+C:\Users\rolan\source\repos\ConcurrentTest\ConcurrentTest\bin\Debug\ConcurrentTest.pdb
+C:\Users\rolan\source\repos\ConcurrentTest\ConcurrentTest\obj\Debug\ConcurrentTest.csprojAssemblyReference.cache
+C:\Users\rolan\source\repos\ConcurrentTest\ConcurrentTest\obj\Debug\ConcurrentTest.exe
+C:\Users\rolan\source\repos\ConcurrentTest\ConcurrentTest\obj\Debug\ConcurrentTest.pdb
